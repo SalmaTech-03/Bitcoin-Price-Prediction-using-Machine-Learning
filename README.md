@@ -113,21 +113,6 @@ Dataset Link: https://www.kaggle.com/datasets (replace with actual dataset link)
 
 ---
 
-## Screenshots
-
-### Bitcoin Price Trend
-![Price Trend](https://via.placeholder.com/800x400?text=Bitcoin+Price+Trend+Graph)
-
-### Feature Distribution
-![Distribution](https://via.placeholder.com/800x400?text=Feature+Distribution+Plot)
-
-### Correlation Heatmap
-![Heatmap](https://via.placeholder.com/800x400?text=Correlation+Heatmap)
-
-### Model Performance
-![Model Comparison](https://via.placeholder.com/800x400?text=Model+Comparison)
-
----
 
 ## Key Highlights
 
@@ -145,13 +130,6 @@ Dataset Link: https://www.kaggle.com/datasets (replace with actual dataset link)
 - Confusion Matrix  
 - Overfitting analysis  
 - Feature correlation analysis  
-
----
-
-## Author
-
-SYED AHAMED WASIK  
-Data Science | Machine Learning | AI Projects  
 
 ---
 
