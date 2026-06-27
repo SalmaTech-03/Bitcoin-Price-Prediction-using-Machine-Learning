@@ -91,4 +91,3 @@ The pipeline creates three primary synthetic features to capture market sentimen
 3.  **Architecture Upgrade**: Transitioning from shallow classifiers to LSTM (Long Short-Term Memory) networks for better time-series dependency capture.
 
 ---
-**Target Audience**: Quantitative Traders, Financial Data Scientists, FinTech Product Managers.
